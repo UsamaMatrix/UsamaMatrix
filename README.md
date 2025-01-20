@@ -12,7 +12,7 @@
 
 - 🌱 Currently working on **Penetration Testing**, **Threat Mitigation**, and **Adaptive AI Security** solutions.
 - 💬 Ask me about **Cybersecurity**, **Penetration Testing**, **Ethical Hacking**, **Vulnerability Analysis**, and **Threat Intelligence**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-usama-9386a6333/) | [GitHub](https://github.com/UsamaMatrix)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/UsamaMatrix/) | [GitHub](https://github.com/UsamaMatrix)
 - ⚡ Fun fact: I believe **hacking is not a crime** when done ethically to enhance security!
 
 ---
@@ -30,7 +30,7 @@
 ## 🌐 Social Networks
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/UsamaMatrix)](https://github.com/UsamaMatrix)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-usama-9386a6333/)](https://www.linkedin.com/in/muhammad-usama-9386a6333/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-usama-9386a6333/)](https://www.linkedin.com/in/UsamaMatrix/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/UsamaMatrix)](https://twitter.com/UsamaMatrix)
 
 ---
