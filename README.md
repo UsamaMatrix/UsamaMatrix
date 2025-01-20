@@ -75,13 +75,7 @@ Here are some of the open-source projects that I am working on:
   - Graphic Design Advanced Plus
   - Numerous other certifications related to security and IT.
 
----
 
-## 🙏 Support My Work
-
-If you find my work useful, consider supporting me with a cup of coffee! ☕ 
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/UsamaMatrix)
 
 ---
 
