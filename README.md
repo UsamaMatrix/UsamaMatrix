@@ -17,13 +17,15 @@
 
 ---
 
-## 📚 Certifications & Education
+## 🎓 Education & Certifications
 
 - **BS Cyber Security** - [HITEC University](https://www.hitecuni.edu.pk/)
-- **Certified Ethical Hacker**: CEH v11, CEH v12
-- **Offensive Security Certified Professional**: OSCP
-- **Chief Information Security Officer**: CISO
-- **Graphic Design Advanced Plus** & other certifications.
+- **Certifications**:
+  - CEH v11, CEH v12
+  - OSCP
+  - CISO
+  - Graphic Design Advanced Plus
+  - Numerous other certifications related to security and IT.
 
 ---
 
@@ -62,18 +64,6 @@ Here are some of the open-source projects that I am working on:
 - **[Security Testing Scripts](https://github.com/UsamaMatrix/penetration-testing-scripts)**: A collection of penetration testing scripts and automation tools.
 - **[Adaptive AI Security Research](https://github.com/UsamaMatrix/adaptive-ai-security)**: My research on AI-driven cybersecurity solutions to counter AI-based threats.
 - **[Cybersecurity Blog](https://github.com/UsamaMatrix/cybersecurity-blog)**: Insights and tutorials on ethical hacking and cybersecurity topics.
-
----
-
-## 🎓 Education & Certifications
-
-- **BS Cyber Security** - [HITEC University](https://www.hitecuni.edu.pk/)
-- **Certifications**:
-  - CEH v11, CEH v12
-  - OSCP
-  - CISO
-  - Graphic Design Advanced Plus
-  - Numerous other certifications related to security and IT.
 
 
 
