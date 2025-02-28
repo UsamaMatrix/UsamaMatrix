@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usama</h1>
-<h3 align="center">Cyber Security Student | Penetration Tester | Ethical Hacker</h3>
+<h3 align="center">Cyber Security Instructor | Penetration Tester | Ethical Hacker | Professional Developer</h3>
 <h4 align="center">Certifications: CEH v11, CEH v12, OSCP, CISO, and more</h4>
 
 <div align="center">
