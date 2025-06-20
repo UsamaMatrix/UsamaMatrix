@@ -66,7 +66,7 @@
 ### 🛠️ Tools & Frameworks
 
 <p align="left">
-  <img src="assets/icons/burp.png" width="40" title="Burp Suite"/>
+  <img src="assets/icons/burp.png" width="80" title="Burp Suite"/>
   <img src="assets/icons/nmap.png" width="40" title="Nmap"/>
   <img src="assets/icons/wireshark.png" width="40" title="Wireshark"/>
   <img src="assets/icons/metasploit.png" width="40" title="Metasploit"/>
