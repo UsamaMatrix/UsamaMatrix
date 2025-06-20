@@ -67,15 +67,15 @@
 
 <p align="left">
   <img src="assets/icons/burp.png" width="80" title="Burp Suite"/>
-  <img src="assets/icons/nmap.png" width="40" title="Nmap"/>
-  <img src="assets/icons/wireshark.png" width="40" title="Wireshark"/>
-  <img src="assets/icons/metasploit.png" width="40" title="Metasploit"/>
-  <img src="assets/icons/nuclei.png" width="40" title="Nuclei"/>
-  <img src="assets/icons/ffuf.png" width="40" title="ffuf"/>
-  <img src="assets/icons/gobuster.png" width="40" title="Gobuster"/>
+  <img src="assets/icons/nmap.png" width="60" title="Nmap"/>
+  <img src="assets/icons/wireshark.png" width="80" title="Wireshark"/>
+  <img src="assets/icons/metasploit.png" width="80" title="Metasploit"/>
+  <img src="assets/icons/nuclei.png" width="80" title="Nuclei"/>
+  <img src="assets/icons/ffuf.png" width="60" title="ffuf"/>
+  <img src="assets/icons/gobuster.png" width="60" title="Gobuster"/>
   <img src="assets/icons/amass.png" width="40" title="Amass"/>
   <img src="assets/icons/maltego.png" width="40" title="Maltego"/>
-  <img src="assets/icons/playwright.png" width="40" title="Playwright"/>
+  <img src="assets/icons/playwright.png" width="50" title="Playwright"/>
 </p>
 
 ---
