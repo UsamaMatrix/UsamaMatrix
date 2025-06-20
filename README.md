@@ -66,16 +66,16 @@
 ### 🛠️ Tools & Frameworks
 
 <p align="left">
-  <img src="assets/icons/burp.png" width="80" title="Burp Suite"/>
-  <img src="assets/icons/nmap.png" width="60" title="Nmap"/>
-  <img src="assets/icons/wireshark.png" width="100" title="Wireshark"/>
-  <img src="assets/icons/metasploit.png" width="100" title="Metasploit"/>
-  <img src="assets/icons/nuclei.png" width="100" title="Nuclei"/>
-  <img src="assets/icons/ffuf.png" width="80" title="ffuf"/>
-  <img src="assets/icons/gobuster.png" width="60" title="Gobuster"/>
-  <img src="assets/icons/amass.png" width="40" title="Amass"/>
-  <img src="assets/icons/maltego.png" width="40" title="Maltego"/>
-  <img src="assets/icons/playwright.png" width="100" title="Playwright"/>
+  <img src="assets/icons/burp.png" height="50" title="Burp Suite" style="vertical-align:middle;"/>
+  <img src="assets/icons/nmap.png" height="50" title="Nmap" style="vertical-align:middle;"/>
+  <img src="assets/icons/wireshark.png" height="50" title="Wireshark" style="vertical-align:middle;"/>
+  <img src="assets/icons/metasploit.png" height="50" title="Metasploit" style="vertical-align:middle;"/>
+  <img src="assets/icons/nuclei.png" height="50" title="Nuclei" style="vertical-align:middle;"/>
+  <img src="assets/icons/ffuf.png" height="50" title="ffuf" style="vertical-align:middle;"/>
+  <img src="assets/icons/gobuster.png" height="50" title="Gobuster" style="vertical-align:middle;"/>
+  <img src="assets/icons/amass.png" height="50" title="Amass" style="vertical-align:middle;"/>
+  <img src="assets/icons/maltego.png" height="50" title="Maltego" style="vertical-align:middle;"/>
+  <img src="assets/icons/playwright.png" height="50" title="Playwright" style="vertical-align:middle;"/>
 </p>
 
 ---
