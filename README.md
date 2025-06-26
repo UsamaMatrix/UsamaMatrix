@@ -59,6 +59,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="assets/icons/asm.png" height="50" title="Assembly" style="vertical-align:middle;"/>
+  <img src="assets/icons/rust.png" height="50" title="Rust" style="vertical-align:middle;"/>
+  <img src="assets/icons/sql.png" height="50" title="SQL" style="vertical-align:middle;"/>
+  <img src="assets/icons/java.png" height="50" title="JAVA" style="vertical-align:middle;"/>
+  <img src="assets/icons/php.png" height="50" title="PHP" style="vertical-align:middle;"/>
+  <img src="assets/icons/ruby.png" height="50" title="Ruby" style="vertical-align:middle;"/>
+  
 </p>
 
 ---
