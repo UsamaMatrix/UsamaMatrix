@@ -27,7 +27,8 @@
 ⚡ **Fun Fact**: _"Hacking is not a crime when it's for defense. I hack to protect, not to destroy."_
 
 ---
-
+![](https://raw.githubusercontent.com/VIDAKHOSHPEY22/VIDAKHOSHPEY22/output/pacman-contribution-graph.svg)
+![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 ## 🎓 Education & Professional Certifications
 
 - 🎓 **BS in Cyber Security** – [HITEC University, Taxila](https://www.hitecuni.edu.pk/)
@@ -116,7 +117,11 @@
 - 🔍 [Why Threat Intelligence Is Essential in Modern Security](https://usamatrix.medium.com)
 
 ---
+![trophy](https://github-profile-trophy.vercel.app/?username=usamamatrix&theme=matrix)
+# Github Snake :))
+![Gitgub Snake](https://github.com/maxamin/maxamin/blob/main/assets/github-snake.svg)
 
+![](https://camo.githubusercontent.com/85add4a9633786947f86fe4e86eb5aca6b190ff47345434755a0d98f488fefa7/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
 ## 🤝 Let’s Collaborate
 
 I'm open to:
